@@ -1,0 +1,68 @@
+/* Global area */
+.demO{
+	border: 2px solid black;
+	margin: 20px;
+}
+p{
+	font-size: 24px;
+	font-weight: 400;
+	color: black;
+	text-align: center;
+}
+.wel{
+	
+	margin-left: 570px;
+}
+.light{
+	margin-top: 50px;
+	margin-left: 570px;
+
+}
+.light h6{
+	margin-left: 55px;
+	color: green;
+}
+
+}
+.try{
+	margin-top:200px;
+	margin-left: 500px;
+}
+/*5th*/
+#big{
+	margin-top: 20px;
+}
+.small{
+	margin-left: 610px;
+	border-radius: 5px;
+}
+.add{
+	margin-top: 30px;
+	margin-left: 610px;
+}
+.date{
+	margin-top: 30px;
+	margin-left: 550px;
+
+}
+.sort{
+	margin-left: 610px;
+	border-radius: 5px;
+	margin-top: 30px;
+
+}
+#sorting{
+	font-size: 18px;
+}
+/*3rd*/
+.vanish{
+	border-radius: 5px;
+	margin-left: 580px;
+
+	margin-top: 30px;
+}
+.hide{
+	border-radius: 5px;
+	margin-right: 500px;
+	margin-top: 30px;
+}
